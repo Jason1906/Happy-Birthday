@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: xx-large;
+    margin: 0;
+    padding: 0;
+    background-color: #d76391;
+    background-image: url('confetti.jpg');
+    text-align: center;
+}
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #d129ea;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {margin-top: 1%;
+    color: #333;
+}
+p {margin-top: 1%;
+    color: #333;
+    font-size: 50px;
+    line-height: 1;
+}
+.button {
+    display: inline-block;
+    padding: 5px 15px;
+    margin-top: 1%;
+    background-color: #660152;
+    color: white;
+    text-decoration: gold;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+.button:hover:hover {
+    background-color: #3bd32a;
+}
+#img1{width: 32%;
+    margin-left: 25%;
+    background-color: #660152;}
+#img2{width: 30%;}
+#left{
+    margin-top: 5%;
+    margin-left: 2%;
+    width: 1%;
+    height: 1%;
+    float: left;
+}
+#right{
+    margin-top: 5%;
+    margin-right: 20%;
+    width: 1%;
+    height: 1%;
+    float: right;
+}
